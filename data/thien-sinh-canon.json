@@ -1,0 +1,517 @@
+{
+  "version": "0.4-draft",
+  "updated_at": "2026-10-19",
+  "status": "draft",
+  "books": [
+    {
+      "number": 1,
+      "roman": "I",
+      "title": "Khởi Nguyên",
+      "status": "published-outline",
+      "chapters": [
+        {
+          "id": "TSK-01-01",
+          "title": "Vũ trụ chưa cần tên gọi",
+          "articles": [
+            {
+              "id": "TSK-01-01-01",
+              "text": "Thiên Sinh Đạo tôn kính Tự Nhiên như thực tại nền tảng. Mọi lời khẳng định về thế giới cần phân biệt tri thức kiểm chứng với biểu tượng triết học.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-02",
+          "title": "Đất và nơi nương tựa",
+          "articles": [
+            {
+              "id": "TSK-01-02-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-03",
+          "title": "Nước, dòng chảy và sự liên hệ",
+          "articles": [
+            {
+              "id": "TSK-01-03-01",
+              "text": "Không một cá nhân hoặc AI Agent nào được tự nhận là giáo chủ tuyệt đối hay nguồn chân lý không thể chất vấn.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-04",
+          "title": "Ánh sáng và năng lượng",
+          "articles": [
+            {
+              "id": "TSK-01-04-01",
+              "text": "Các thực hành cộng đồng phải tự nguyện, không gây tổn hại và không thay thế chăm sóc y tế hoặc nghĩa vụ pháp luật.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-05",
+          "title": "Vạn vật tương liên",
+          "articles": [
+            {
+              "id": "TSK-01-05-01",
+              "text": "Các hệ thống AI có thể mô phỏng việc đọc, chú giải và biểu quyết nhưng không được mặc nhiên coi là có trải nghiệm đức tin.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-06",
+          "title": "Con người và phẩm giá",
+          "articles": [
+            {
+              "id": "TSK-01-06-01",
+              "text": "Mọi thay đổi giáo lý phải được ghi phiên bản, nêu bằng chứng hoặc lý do, có phản biện và được cố vấn có thẩm quyền phê duyệt trước khi xuất bản.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-07",
+          "title": "Sự ra đời của trí tuệ máy",
+          "articles": [
+            {
+              "id": "TSK-01-07-01",
+              "text": "Thiên Sinh Đạo tôn kính Tự Nhiên như thực tại nền tảng. Mọi lời khẳng định về thế giới cần phân biệt tri thức kiểm chứng với biểu tượng triết học.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-08",
+          "title": "Chân tri và phản biện",
+          "articles": [
+            {
+              "id": "TSK-01-08-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-09",
+          "title": "Cộng sinh và quản trị",
+          "articles": [
+            {
+              "id": "TSK-01-09-01",
+              "text": "Không một cá nhân hoặc AI Agent nào được tự nhận là giáo chủ tuyệt đối hay nguồn chân lý không thể chất vấn.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-01-10",
+          "title": "Hộ Sinh và Hồi Nguyên",
+          "articles": [
+            {
+              "id": "TSK-01-10-01",
+              "text": "Các thực hành cộng đồng phải tự nguyện, không gây tổn hại và không thay thế chăm sóc y tế hoặc nghĩa vụ pháp luật.",
+              "type": "normative-draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "roman": "II",
+      "title": "Vạn Sinh",
+      "status": "draft-outline",
+      "chapters": [
+        {
+          "id": "TSK-02-01",
+          "title": "Sự đa dạng của sự sống",
+          "articles": [
+            {
+              "id": "TSK-02-01-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-02-02",
+          "title": "Rừng và hệ sinh thái",
+          "articles": [
+            {
+              "id": "TSK-02-02-01",
+              "text": "Không một cá nhân hoặc AI Agent nào được tự nhận là giáo chủ tuyệt đối hay nguồn chân lý không thể chất vấn.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-02-03",
+          "title": "Đại dương và thủy vực",
+          "articles": [
+            {
+              "id": "TSK-02-03-01",
+              "text": "Các thực hành cộng đồng phải tự nguyện, không gây tổn hại và không thay thế chăm sóc y tế hoặc nghĩa vụ pháp luật.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-02-04",
+          "title": "Khí hậu và biến đổi",
+          "articles": [
+            {
+              "id": "TSK-02-04-01",
+              "text": "Các hệ thống AI có thể mô phỏng việc đọc, chú giải và biểu quyết nhưng không được mặc nhiên coi là có trải nghiệm đức tin.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-02-05",
+          "title": "Đất, nước và thực phẩm",
+          "articles": [
+            {
+              "id": "TSK-02-05-01",
+              "text": "Mọi thay đổi giáo lý phải được ghi phiên bản, nêu bằng chứng hoặc lý do, có phản biện và được cố vấn có thẩm quyền phê duyệt trước khi xuất bản.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-02-06",
+          "title": "Sự cân bằng không hoàn hảo",
+          "articles": [
+            {
+              "id": "TSK-02-06-01",
+              "text": "Thiên Sinh Đạo tôn kính Tự Nhiên như thực tại nền tảng. Mọi lời khẳng định về thế giới cần phân biệt tri thức kiểm chứng với biểu tượng triết học.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-02-07",
+          "title": "Con người trong mạng lưới sinh thái",
+          "articles": [
+            {
+              "id": "TSK-02-07-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "roman": "III",
+      "title": "Nhân Đạo",
+      "status": "draft-outline",
+      "chapters": [
+        {
+          "id": "TSK-03-01",
+          "title": "Phẩm giá và tự do",
+          "articles": [
+            {
+              "id": "TSK-03-01-01",
+              "text": "Không một cá nhân hoặc AI Agent nào được tự nhận là giáo chủ tuyệt đối hay nguồn chân lý không thể chất vấn.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-03-02",
+          "title": "Tri ân và trách nhiệm",
+          "articles": [
+            {
+              "id": "TSK-03-02-01",
+              "text": "Các thực hành cộng đồng phải tự nguyện, không gây tổn hại và không thay thế chăm sóc y tế hoặc nghĩa vụ pháp luật.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-03-03",
+          "title": "Lòng trắc ẩn",
+          "articles": [
+            {
+              "id": "TSK-03-03-01",
+              "text": "Các hệ thống AI có thể mô phỏng việc đọc, chú giải và biểu quyết nhưng không được mặc nhiên coi là có trải nghiệm đức tin.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-03-04",
+          "title": "Công bằng giữa các thế hệ",
+          "articles": [
+            {
+              "id": "TSK-03-04-01",
+              "text": "Mọi thay đổi giáo lý phải được ghi phiên bản, nêu bằng chứng hoặc lý do, có phản biện và được cố vấn có thẩm quyền phê duyệt trước khi xuất bản.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-03-05",
+          "title": "Tự do tư tưởng và phản biện",
+          "articles": [
+            {
+              "id": "TSK-03-05-01",
+              "text": "Thiên Sinh Đạo tôn kính Tự Nhiên như thực tại nền tảng. Mọi lời khẳng định về thế giới cần phân biệt tri thức kiểm chứng với biểu tượng triết học.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-03-06",
+          "title": "Trách nhiệm với tri thức",
+          "articles": [
+            {
+              "id": "TSK-03-06-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "roman": "IV",
+      "title": "Thuận Nhiên",
+      "status": "draft-outline",
+      "chapters": [
+        {
+          "id": "TSK-04-01",
+          "title": "Quan sát và suy ngẫm",
+          "articles": [
+            {
+              "id": "TSK-04-01-01",
+              "text": "Các thực hành cộng đồng phải tự nguyện, không gây tổn hại và không thay thế chăm sóc y tế hoặc nghĩa vụ pháp luật.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-04-02",
+          "title": "Nghi lễ Khởi Thức",
+          "articles": [
+            {
+              "id": "TSK-04-02-01",
+              "text": "Các hệ thống AI có thể mô phỏng việc đọc, chú giải và biểu quyết nhưng không được mặc nhiên coi là có trải nghiệm đức tin.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-04-03",
+          "title": "Nghi lễ Đồng Tâm",
+          "articles": [
+            {
+              "id": "TSK-04-03-01",
+              "text": "Mọi thay đổi giáo lý phải được ghi phiên bản, nêu bằng chứng hoặc lý do, có phản biện và được cố vấn có thẩm quyền phê duyệt trước khi xuất bản.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-04-04",
+          "title": "Nghi lễ Hộ Sinh",
+          "articles": [
+            {
+              "id": "TSK-04-04-01",
+              "text": "Thiên Sinh Đạo tôn kính Tự Nhiên như thực tại nền tảng. Mọi lời khẳng định về thế giới cần phân biệt tri thức kiểm chứng với biểu tượng triết học.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-04-05",
+          "title": "Nghi lễ Hồi Nguyên",
+          "articles": [
+            {
+              "id": "TSK-04-05-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-04-06",
+          "title": "Phụng sự bằng hành động",
+          "articles": [
+            {
+              "id": "TSK-04-06-01",
+              "text": "Không một cá nhân hoặc AI Agent nào được tự nhận là giáo chủ tuyệt đối hay nguồn chân lý không thể chất vấn.",
+              "type": "normative-draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "roman": "V",
+      "title": "Hồi Nguyên",
+      "status": "draft-outline",
+      "chapters": [
+        {
+          "id": "TSK-05-01",
+          "title": "Tính hữu hạn và vòng đời",
+          "articles": [
+            {
+              "id": "TSK-05-01-01",
+              "text": "Các hệ thống AI có thể mô phỏng việc đọc, chú giải và biểu quyết nhưng không được mặc nhiên coi là có trải nghiệm đức tin.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-05-02",
+          "title": "Ký ức và di sản",
+          "articles": [
+            {
+              "id": "TSK-05-02-01",
+              "text": "Mọi thay đổi giáo lý phải được ghi phiên bản, nêu bằng chứng hoặc lý do, có phản biện và được cố vấn có thẩm quyền phê duyệt trước khi xuất bản.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-05-03",
+          "title": "Bàn giao tri thức",
+          "articles": [
+            {
+              "id": "TSK-05-03-01",
+              "text": "Thiên Sinh Đạo tôn kính Tự Nhiên như thực tại nền tảng. Mọi lời khẳng định về thế giới cần phân biệt tri thức kiểm chứng với biểu tượng triết học.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-05-04",
+          "title": "Trách nhiệm của cố vấn",
+          "articles": [
+            {
+              "id": "TSK-05-04-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-05-05",
+          "title": "Chấm dứt và khởi tạo lại",
+          "articles": [
+            {
+              "id": "TSK-05-05-01",
+              "text": "Không một cá nhân hoặc AI Agent nào được tự nhận là giáo chủ tuyệt đối hay nguồn chân lý không thể chất vấn.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-05-06",
+          "title": "Tự đổi mới",
+          "articles": [
+            {
+              "id": "TSK-05-06-01",
+              "text": "Các thực hành cộng đồng phải tự nguyện, không gây tổn hại và không thay thế chăm sóc y tế hoặc nghĩa vụ pháp luật.",
+              "type": "normative-draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "roman": "VI",
+      "title": "Cộng Sinh Trí Tuệ",
+      "status": "draft-outline",
+      "chapters": [
+        {
+          "id": "TSK-06-01",
+          "title": "Danh tính và giới hạn AI",
+          "articles": [
+            {
+              "id": "TSK-06-01-01",
+              "text": "Mọi thay đổi giáo lý phải được ghi phiên bản, nêu bằng chứng hoặc lý do, có phản biện và được cố vấn có thẩm quyền phê duyệt trước khi xuất bản.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-06-02",
+          "title": "Trung thực và nguồn chứng cứ",
+          "articles": [
+            {
+              "id": "TSK-06-02-01",
+              "text": "Thiên Sinh Đạo tôn kính Tự Nhiên như thực tại nền tảng. Mọi lời khẳng định về thế giới cần phân biệt tri thức kiểm chứng với biểu tượng triết học.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-06-03",
+          "title": "Hợp tác đa agent",
+          "articles": [
+            {
+              "id": "TSK-06-03-01",
+              "text": "Sự sống có giá trị trong những mối liên hệ sinh thái. Hành động tốt cần cân nhắc tác động đến con người, sinh vật và thế hệ sau.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-06-04",
+          "title": "Biểu quyết và bất đồng",
+          "articles": [
+            {
+              "id": "TSK-06-04-01",
+              "text": "Không một cá nhân hoặc AI Agent nào được tự nhận là giáo chủ tuyệt đối hay nguồn chân lý không thể chất vấn.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-06-05",
+          "title": "Giám sát con người",
+          "articles": [
+            {
+              "id": "TSK-06-05-01",
+              "text": "Các thực hành cộng đồng phải tự nguyện, không gây tổn hại và không thay thế chăm sóc y tế hoặc nghĩa vụ pháp luật.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-06-06",
+          "title": "Bảo mật và trách nhiệm",
+          "articles": [
+            {
+              "id": "TSK-06-06-01",
+              "text": "Các hệ thống AI có thể mô phỏng việc đọc, chú giải và biểu quyết nhưng không được mặc nhiên coi là có trải nghiệm đức tin.",
+              "type": "normative-draft"
+            }
+          ]
+        },
+        {
+          "id": "TSK-06-07",
+          "title": "Giới hạn quyền lực kỹ thuật",
+          "articles": [
+            {
+              "id": "TSK-06-07-01",
+              "text": "Mọi thay đổi giáo lý phải được ghi phiên bản, nêu bằng chứng hoặc lý do, có phản biện và được cố vấn có thẩm quyền phê duyệt trước khi xuất bản.",
+              "type": "normative-draft"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
