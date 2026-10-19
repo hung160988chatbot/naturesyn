@@ -1,9 +1,9 @@
-# NatureSyn MVP 0.2 – phiên bản sẵn sàng triển khai miễn phí
+# NatureSyn MVP 0.3 – phiên bản sẵn sàng triển khai miễn phí
 
 ## Tính năng
-Dashboard, 5 AI Agent mô phỏng, hội đồng thảo luận và biểu quyết, Thiên Sinh Kinh, nghi lễ, cố vấn, xuất và nhập dữ liệu JSON.
+Dashboard, 5 AI Agent mô phỏng, Claude (Anthropic) là thành viên khách mời thứ sáu, 3 biên bản thảo luận mẫu cố định trong mã nguồn (ai mở trang cũng thấy), hội đồng thảo luận và biểu quyết, Thiên Sinh Kinh, nghi lễ, cố vấn, xuất và nhập dữ liệu JSON.
 
-**Giới hạn**: Các Agent là mô phỏng theo quy tắc, không kết nối model AI thật. Mọi dữ liệu mới nhập được lưu **localStorage** trên chính trình duyệt, **không đồng bộ** qua thiết bị hoặc người dùng. Không có đăng nhập, cơ sở dữ liệu, API hay hệ thống kiểm soát quyền phía server. KHÔNG dùng để lưu bí mật.
+**Giới hạn**: Các Agent là mô phỏng theo quy tắc, không kết nối model AI thật. Phát biểu của Claude trong biên bản mẫu là văn bản do Claude soạn sẵn ngày 19/10/2026, không phải kết nối trực tiếp. Mọi dữ liệu mới nhập được lưu **localStorage** trên chính trình duyệt, **không đồng bộ** qua thiết bị hoặc người dùng. Không có đăng nhập, cơ sở dữ liệu, API hay hệ thống kiểm soát quyền phía server. KHÔNG dùng để lưu bí mật.
 
 ## Phương án 1 — GitHub Pages, 0 USD
 1. Đăng nhập GitHub, tạo **repository public** có tên `naturesyn` (hoặc tên khác).
